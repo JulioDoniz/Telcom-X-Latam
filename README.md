@@ -1,3 +1,12 @@
+# Análisis de Datos de TelecomX
+
+Este notebook analiza los datos de clientes de TelecomX para comprender la rotación de clientes (**churn**).
+
+---
+
+## Funcionalidad
+
+El notebook realiza los siguientes pasos:
 1.  **Cargar Datos**: Lee los datos de los clientes desde un archivo JSON alojado en GitHub.
 2.  **Exploración de Datos**: Muestra el encabezado (`head`) y la información (`info`) del dataframe para obtener una comprensión básica de la estructura y tipos de datos.
 3.  **Transformación de Datos**:
